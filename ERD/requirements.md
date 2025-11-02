@@ -1,5 +1,4 @@
 ---
-
 # 🗃️ Database Schema Overview
 
 This document outlines the core entities, attributes, relationships, constraints, and indexing strategy for the property booking platform database.
