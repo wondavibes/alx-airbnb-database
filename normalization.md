@@ -15,7 +15,7 @@ Normalization is the process of organizing data to reduce redundancy and improve
 - Each record is unique and has a primary key.
 
 ### 2NF – Second Normal Form
-- Meets 1NF.
+- Achieves 1NF.
 - All non-key attributes are fully functionally dependent on the entire primary key (especially relevant for composite keys).
 
 ### 3NF – Third Normal Form
