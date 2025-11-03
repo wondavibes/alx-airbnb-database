@@ -22,7 +22,8 @@ SELECT
     Review.comment,
     Review.created_at
 FROM Property
-LEFT JOIN Review ON Property.property_id = Review.property_id;
+LEFT JOIN Review ON Property.property_id = Review.property_id
+ORDER BY Property.name ASC, Review.created_at DESC;
 
 
 SELECT 
